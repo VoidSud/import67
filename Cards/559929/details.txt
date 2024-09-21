@@ -1,0 +1,5 @@
+Card Number: 5599295771693241
+Expiry Date: 3/2027
+CVV: 077
+Name: Ikuno Jun
+Additional Details: |||||||--|115.164.200.83|Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML; like Gecko) Version/14.0 Safari/604.1

@@ -1,0 +1,5 @@
+Card Number: 5596010181690379
+Expiry Date: 9/2024
+CVV: 213
+Name: Joseph prashanth Britto
+Additional Details: ||||IN|919500916635|sharashanthiraj@gmail.com|01-09-1999|49.205.82.193|Mozilla/5.0 (Linux; Android 10; M2010J19CI) AppleWebKit/537.36 (KHTML; like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36
